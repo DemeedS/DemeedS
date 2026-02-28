@@ -1,6 +1,6 @@
 Hey, I'm Demian 👋
 B.S OF COMPUTER SCIENCE '27 @ Fordham University · New York City · Lincoln Center
-I build full-stack applications and back-end systems, and I'm actively seeking SWE internships for Summer 2026. I come from Saint Petersburg, Russia — moved to the US for high school without knowing English, which taught me how to learn fast and adapt under pressure. That mindset carries into everything I build.
+I build full-stack applications and back-end systems, and I'm actively seeking AI / ML internships for Summer 2026. I come from Saint Petersburg, Russia — moved to the US for high school without knowing English, which taught me how to learn fast and adapt under pressure. That mindset carries into everything I build.
 
 🛠️ Tech Stack
 Languages: Java · Python · C++ · JavaScript · SQL · C#
