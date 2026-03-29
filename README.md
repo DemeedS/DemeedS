@@ -1,30 +1,31 @@
 Hey, I'm Demian 👋
-B.S OF COMPUTER SCIENCE '27 @ Fordham University · New York City · Lincoln Center
-I build full-stack applications and back-end systems, and I'm actively seeking AI / ML internships for Summer 2026. I come from Saint Petersburg, Russia — moved to the US for high school without knowing English, which taught me how to learn fast and adapt under pressure. That mindset carries into everything I build.
+B.S. Computer Science '27 @ Fordham University · New York City · Lincoln Center
+I build full-stack applications, back-end systems, and AI agents. Actively seeking AI/ML internships for Summer 2026.
+I'm from Saint Petersburg, Russia — moved to the US for high school without knowing English. That taught me how to learn fast and adapt under pressure. That mindset carries into everything I build.
 
 🛠️ Tech Stack
 Languages: Java · Python · C++ · JavaScript · SQL · C#
-Frameworks & Tools: Spring Boot · Flask · PostgreSQL · Git · REST APIs
-Currently learning: System design · Data structures & algorithms
+Frameworks & Tools: Spring Boot · Flask · Flask-SocketIO · PostgreSQL · SQLite · Git · REST APIs · Claude API
+Currently learning: System design · Data structures & algorithms · Agentic AI
 
 📌 Featured Projects
+🤖 PulseAI — Fordham Hackathon 2026
+Autonomous AI agent for organizational communication. A club president types one natural language instruction — the agent extracts details, creates the event, notifies all members in real time, schedules autonomous reminders, detects conflicts, and collects RSVPs. Zero human involvement after the first message. Built and deployed in 24 hours. Live at pulseai.onrender.com
+[Python · Flask · Claude API · Flask-SocketIO · APScheduler · SQLite · Deployed on Render]
 🏦 Bank Card System
-REST API for bank card management built with Spring Boot 3. Features JWT authentication, role-based access control (RBAC), AES card number encryption, and PostgreSQL for persistence. Designed with real-world security patterns in mind.
-[Java Spring Boot PostgreSQL JWT REST API]
-
+REST API for bank card management built with Spring Boot 3. Features JWT authentication, role-based access control (RBAC), AES card number encryption, and PostgreSQL. Designed with real-world security patterns in mind.
+[Java · Spring Boot · PostgreSQL · JWT · REST API]
 👗 Digital Wardrobe
-Collaborative Flask web app to organize and filter a personal wardrobe. I built the multi-filter dashboard (type, color, size, season) and the favorites system. Developed using a Git branching workflow with a partner.
-[Python Flask SQLAlchemy HTML/CSS Git]
-
-💻 Personal & School Projects
-A collection of C++ projects including linked lists, dynamic arrays, inheritance hierarchies, and OOP design patterns from my Data Structures coursework.
-[C++ OOP Data Structures]
+Collaborative Flask web app to organize and filter a personal wardrobe. Built the multi-filter dashboard (type, color, size, season) and the favorites system using a Git branching workflow with a partner.
+[Python · Flask · SQLAlchemy · HTML/CSS · Git]
+💻 Data Structures & Algorithms Projects
+C++ projects including linked lists, dynamic arrays, inheritance hierarchies, and OOP design patterns from coursework.
+[C++ · OOP · Data Structures]
 
 🧠 About Me
-
 🎓 Junior CS student · 3.5 GPA · Dean's List
-💼 EndPoint Service (IT) -  @ Fordham University
-📦 e-Commerce Project Manager - @ Blithewold
-🧗 Rock climber at Vital Climbing Gym NYC. Highschool basketball all state
+💼 EndPoint Service (IT) @ Fordham University
+📦 e-Commerce Project Manager @ Blithewold
+🧗 Rock climber at Vital Climbing Gym NYC · High school basketball all-state
 🎬 Cinematic content creator (DaVinci Resolve)
 🌍 Fluent in Russian & English
