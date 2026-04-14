@@ -12,12 +12,15 @@ Currently learning: System design · Data structures & algorithms · Agentic AI
 🤖 PulseAI — Fordham Hackathon 2026
 Autonomous AI agent for organizational communication. A club president types one natural language instruction — the agent extracts details, creates the event, notifies all members in real time, schedules autonomous reminders, detects conflicts, and collects RSVPs. Zero human involvement after the first message. Built and deployed in 24 hours. Live at pulseai.onrender.com
 [Python · Flask · Claude API · Flask-SocketIO · APScheduler · SQLite · Deployed on Render]
+
 🏦 Bank Card System
 REST API for bank card management built with Spring Boot 3. Features JWT authentication, role-based access control (RBAC), AES card number encryption, and PostgreSQL. Designed with real-world security patterns in mind.
 [Java · Spring Boot · PostgreSQL · JWT · REST API]
+
 👗 Digital Wardrobe
 Collaborative Flask web app to organize and filter a personal wardrobe. Built the multi-filter dashboard (type, color, size, season) and the favorites system using a Git branching workflow with a partner.
 [Python · Flask · SQLAlchemy · HTML/CSS · Git]
+
 💻 Data Structures & Algorithms Projects
 C++ projects including linked lists, dynamic arrays, inheritance hierarchies, and OOP design patterns from coursework.
 [C++ · OOP · Data Structures]
