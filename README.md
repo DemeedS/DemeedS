@@ -26,7 +26,7 @@ C++ projects including linked lists, dynamic arrays, inheritance hierarchies, an
 [C++ · OOP · Data Structures]
 
 🧠 About Me
-🎓 Junior CS student · 3.5 GPA · Dean's List
+🎓 Senior CS student · 3.5 GPA · Dean's List
 💼 EndPoint Service (IT) @ Fordham University
 📦 e-Commerce Project Manager @ Blithewold
 🧗 Rock climber at Vital Climbing Gym NYC · High school basketball all-state
