@@ -74,9 +74,9 @@ I'm from **Saint Petersburg, Russia** 🇷🇺 — I moved to the US for high sc
 
 <div align="center">
 
-![Demian's GitHub stats](https://github-readme-stats.vercel.app/api?username=DemeedS&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true)
+![Demian's GitHub stats](https://github-readme-stats.vercel.app/api?username=DemeedS&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&cache_bust=1)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DemeedS&layout=compact&theme=chartreuse-dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DemeedS&layout=compact&theme=chartreuse-dark&hide_border=true&cache_bust=1)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=DemeedS&theme=chartreuse-dark&hide_border=true)
 
