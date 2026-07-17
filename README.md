@@ -4,7 +4,7 @@
 <!-- ============ ANIMATED TYPING SUBTITLE ============ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=289620&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+Agent+Builder;Back-End+Systems+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=289620&center=true&vCenter=true&width=600&lines=Machine-Learning;Full-Stack+Developer;AI+Agent+Builder;Back-End+Systems+Engineer)](https://git.io/typing-svg)
 
 <!-- ============ SOCIAL BADGES ============ -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/demian-vial-8a748624a/)
@@ -23,7 +23,8 @@ Hey, I'm **Demian** — a B.S. Computer Science '27 student at **Fordham Univers
 
 I'm from **Saint Petersburg, Russia** 🇷🇺 — I moved to the US for high school without knowing a word of English. That taught me how to **learn fast and adapt under pressure**, and that mindset carries into everything I build.
 
-- 🎓 Senior CS student · **3.5 GPA** · Dean's List
+- 🎓 Senior CS student · Dean's List
+- 💼 AI Engeneer Intern @ **Central National Gottesman**
 - 💼 IT Technician @ **Fordham EndPoint Services**
 - 📦 e-Commerce Project Manager @ **Blithewold**
 - 🤖 Founder @ **[YourAgentCode](https://youragentcode.com)** — AI automation for small businesses
@@ -53,7 +54,6 @@ I'm from **Saint Petersburg, Russia** 🇷🇺 — I moved to the US for high sc
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
-**Currently learning:** System Design · Data Structures & Algorithms · Agentic AI
 
 ---
 
