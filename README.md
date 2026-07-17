@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=289620&height=200&section=header&text=Demian%20%7C%20CS%20%2724%20%40%20Fordham&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Building%20AI%20agents%20%26%20full-stack%20systems%20in%20NYC&descSize=16&descAlignY=70)
+
 Hey, I'm Demian 👋
 B.S. Computer Science '27 @ Fordham University · New York City · Lincoln Center
 I build full-stack applications, back-end systems, and AI agents. Actively seeking AI/ML internships for Summer 2026.
