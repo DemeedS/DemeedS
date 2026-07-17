@@ -4,7 +4,7 @@
 <!-- ============ ANIMATED TYPING SUBTITLE ============ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=289620&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+Agent+Builder;Back-End+Systems+Engineer;(https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=289620&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+Agent+Builder;Back-End+Systems+Engineer;(https://git.io/typing-svg)]
 
 <!-- ============ SOCIAL BADGES ============ -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
