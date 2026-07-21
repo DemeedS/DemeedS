@@ -1,5 +1,5 @@
 <!-- ============ HEADER BANNER ============ -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:289620,100:1A3A5C&height=200&section=header&text=Demian%20%7C%20CS%20%2724%20%40%20Fordham&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Building%20AI%20agents%20and%20full-stack%20systems%20in%20NYC&descSize=16&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:289620,100:1A3A5C&height=200&section=header&text=Demian%20%7C%20CS%20%2727%20%40%20Fordham&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Building%20AI%20agents%20and%20full-stack%20systems%20in%20NYC&descSize=16&descAlignY=70)
 
 <!-- ============ ANIMATED TYPING SUBTITLE ============ -->
 <div align="center">
