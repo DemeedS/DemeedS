@@ -9,7 +9,7 @@
 <!-- ============ SOCIAL BADGES ============ -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/demian-vial-8a748624a/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DemeedS)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:demian@youragentcode.com)
 [![Website](https://img.shields.io/badge/YourAgentCode-289620?style=for-the-badge&logo=googlechrome&logoColor=white)](https://youragentcode.com)
 
 </div>
